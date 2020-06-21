@@ -75,7 +75,7 @@ Após envio, o componente do Desafio será atualizado com a nota e com a informa
 Após finalizar, será liberado o prêmio relacionado ao Nível 1 do bootcamp:
 
 <p align="center" >
-  <img height="300" width="700" src="./src/assets/react-native-challenge_level1.png">
+  <img height="300" width="450" src="./src/assets/react-native-challenge_level1.png">
 </p>
 <br>
 
